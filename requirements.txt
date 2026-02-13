@@ -1,3 +1,4 @@
+streamlit
 # Core Libraries
 numpy
 pandas
@@ -9,3 +10,4 @@ scikit-learn
 
 # Notebook Environment
 jupyter
+
