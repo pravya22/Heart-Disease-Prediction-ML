@@ -1,13 +1,6 @@
-streamlit
-# Core Libraries
-numpy
-pandas
-matplotlib
-seaborn
-
-# Machine Learning
-scikit-learn
-
-# Notebook Environment
-jupyter
+streamlit==1.38.0
+scikit-learn==1.5.2
+pandas==2.2.2
+numpy==2.1.1
+joblib==1.4.2
 
